@@ -1,4 +1,12 @@
+r/BorealSites.r
+r/EX2cvPreles.R
+r/cvPreles.R
+r/data.R
+r/preles_cali.R
 
+HPresults/
+code/
+unused/
 results/
 log.txt
 EX2_mlpAS.csv
